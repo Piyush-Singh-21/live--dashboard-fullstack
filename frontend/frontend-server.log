@@ -1,0 +1,37 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.3:3000
+✓ Ready in 2.0s
+⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\USER\instant-mechanic-dashboard\package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * C:\Users\USER\instant-mechanic-dashboard\frontend\package-lock.json
+
+✓ Running next.config.ts took 165ms
+Creating turbopack project {
+  dir: 'C:\\Users\\USER\\instant-mechanic-dashboard\\frontend',
+  testMode: true
+}
+
+ GET / 200 in 1466ms (next.js: 649ms, application-code: 817ms)
+ GET / 200 in 276ms (next.js: 24ms, application-code: 252ms)
+○ Compiling /_not-found/page ...
+ GET / 404 in 7.4s (next.js: 6.3s, application-code: 1135ms)
+ GET / 404 in 735ms (next.js: 75ms, application-code: 660ms)
+ GET / 404 in 564ms (next.js: 71ms, application-code: 493ms)
+ GET / 404 in 601ms (next.js: 37ms, application-code: 564ms)
+ GET / 404 in 435ms (next.js: 54ms, application-code: 381ms)
+ GET / 200 in 2.9s (next.js: 2.6s, application-code: 223ms)
+ GET / 200 in 492ms (next.js: 54ms, application-code: 438ms)
+ GET / 200 in 1428ms (next.js: 115ms, application-code: 1313ms)
+ GET / 200 in 1117ms (next.js: 853ms, application-code: 264ms)
+ GET / 200 in 1178ms (next.js: 26ms, application-code: 1152ms)
+✓ Compiled in 986ms
+✓ Compiled in 2.1s
+ GET / 200 in 868ms (next.js: 361ms, application-code: 507ms)
